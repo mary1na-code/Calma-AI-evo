@@ -1,48 +1,71 @@
-# Calma AI 🌱
+# Calma AI 🎧📚
 
-Welcome to the public repository for **Calma AI** — an EdTech project focused on accessibility, learning innovation, and AI‑powered support for students and educators.
-
-This repo is designed to share our **evolution** and keep the community updated, while the core application and detailed strategy remain private.
-
----
-
-## 🚀 Vision
-Calma AI aims to make education more inclusive and engaging by combining:
-- Accessible design
-- AI‑driven personalization
-- Tools that empower learners of all abilities
+Welcome to the public repository for **Calma AI** — a mobile‑first corrective special education and speech therapy project.  
+Our mission is to help adolescents and adults with **resolved or aided early hearing loss** rebuild missed auditory and phonological foundations so they can speak clearly, read fluently, and comprehend with confidence.
 
 ---
 
-## 📅 Roadmap (High‑Level)
-We’re currently in the **conceptual stage**. Here are the broad milestones we’re working toward:
+## 🌟 Vision
 
-- **Phase 1:** Concept exploration & landing page  
-- **Phase 2:** Early prototypes & feedback collection  
-- **Phase 3:** Beta release for selected users  
-- **Phase 4:** Public launch  
+Calma AI is not a generic literacy app.  
+It is designed specifically for learners who:
+- Experienced temporary or early hearing loss  
+- Still struggle with sound recognition, speech clarity, and reading comprehension  
 
-*(Detailed strategy and implementation are tracked privately.)*
+By strengthening **phonemic awareness**, **sound–symbol mapping**, and **guided speech practice**, Calma AI tackles the root cause of these challenges rather than only treating surface‑level reading difficulties.
 
 ---
 
-## 📖 Changelog
-See [CHANGELOG.md](./CHANGELOG.md) for a record of updates and progress.
+## 🔑 Core Loop
+
+The heart of Calma AI is simple and focused:
+
+1. **Listen** — Short auditory tasks to distinguish key speech sounds.  
+2. **Get Feedback** — Immediate clarity on accuracy, with nudges to retry or advance.  
+3. **Practice Speech** — Guided word/phrase practice using the same sounds.  
+4. **Track Progress** — Minimal but motivating indicators (sessions completed, accuracy trends).  
+
+This loop is the smallest testable unit that can prove or disprove our product bet.
+
+---
+
+## 📅 Roadmap (MVP‑Driven)
+
+We are currently building toward a **kill‑test MVP** with strict constraints:
+
+- **Phase 1 (Weeks 1–2):** Define first auditory track & wireframe core loop  
+- **Phase 2 (Weeks 3–4):** Prototype interactive flow & run with 2–3 target users  
+- **Phase 3 (Weeks 5–10):** Ship MVP with listening drills, speech practice, and basic feedback  
+- **Phase 4:** Evaluate engagement & efficacy — pivot or scale based on results  
+
+**Success signal:** target users voluntarily return **3+ times per week** and report improved ability to hear, pronounce, and read previously confusing sounds.
+
+---
+
+## 🚫 Non‑Goals
+
+To stay focused, Calma AI will **not**:
+- Serve as a general language learning or exam‑prep tool  
+- Diagnose or treat medical hearing conditions  
+- Support unrelated learning difficulties not rooted in auditory gaps  
+- Become a full telehealth platform for therapists  
 
 ---
 
 ## 🤝 Contributing
-This public repo is mainly for transparency and updates.  
-If you’d like to collaborate, please reach out directly — core development happens in a private repository.
+
+This repo shares **progress and transparency**.  
+Core development happens privately, but we welcome collaboration ideas and feedback — especially from educators, speech therapists, and accessibility advocates.
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](./LICENSE).  
-You’re free to explore and reuse the public materials here.
+## 📖 Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for updates and iteration history.
 
 ---
 
 ## 🌐 Stay Connected
-Follow along as we share updates and progress.  
-Landing page and announcements will be published here as the project evolves.
+
+Follow along as we test, learn, and refine.  
+Announcements and landing page will be published here as the project evolves.
