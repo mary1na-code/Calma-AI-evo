@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calma AI </title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Nunito', sans-serif;
+            background-color: #FDFDFD; /* Off-white to prevent glare */
+            color: #1A1A1A; /* High contrast charcoal */
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        .btn-primary {
+            background-color: #0056D2;
+            transition: all 0.2s ease;
+            min-height: 56px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 2rem;
+            border-radius: 8px;
+            color: white;
+            font-weight: 600;
+            font-size: 1.125rem;
+        }
+        .btn-primary:hover {
+            background-color: #0044A7;
+            transform: translateY(-1px);
+        }
+        .card {
+            background: white;
+            border: 1px solid #E5E7EB;
+            border-radius: 12px;
+        }
+        .chain-arrow {
+            color: #9CA3AF;
+        }
+        /* Accessibility Focus */
+        input:focus, button:focus {
+            outline: 3px solid #60A5FA;
+            outline-offset: 2px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header/Logo -->
+    <header class="py-8 border-b border-gray-100">
+        <div class="container flex justify-between items-center">
+            <span class="text-2xl font-bold tracking-tight">Calma AI</span>
+        </div>
+    </header>
+
+    <!-- 1. Hero Section -->
+    <section class="py-16 md:py-24">
+        <div class="container text-left">
+            <h1 class="text-4xl md:text-5xl font-extrabold mb-6 leading-tight text-blue-700">
+                Fix the sounds you never learned to hear.
+            </h1>
+            <p class="text-xl md:text-2xl text-gray-600 mb-10 max-w-2xl">
+                Calma AI retrains auditory and phonological foundations for teens and adults who had early hearing loss—so reading, speech, and comprehension finally click.
+            </p>
+            <a href="#join" class="btn-primary w-full md:w-auto">
+                Join the early test
+            </a>
+            <p class="mt-4 text-sm text-gray-400">Accessibility-first design for focused learning.</p>
+        </div>
+    </section>
+
+    <!-- 2. Pattern Match -->
+    <section class="py-16 bg-gray-50 border-y border-gray-100">
+        <div class="container">
+            <h2 class="text-3xl font-bold mb-8">Is this you?</h2>
+            <ul class="space-y-6">
+                <li class="flex items-start">
+                    <span class="text-blue-600 mr-4 text-2xl">×</span>
+                    <span class="text-lg">You confuse similar sounds (like ‘sh’ vs ‘ch’) even though your hearing is “fine.”</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-blue-600 mr-4 text-2xl">×</span>
+                    <span class="text-lg">You read slowly or often guess words from context.</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-blue-600 mr-4 text-2xl">×</span>
+                    <span class="text-lg">People frequently ask you to repeat yourself.</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-blue-600 mr-4 text-2xl">×</span>
+                    <span class="text-lg">You avoided reading aloud or speaking in class growing up.</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-blue-600 mr-4 text-2xl">×</span>
+                    <span class="text-lg">You had ear infections, hearing aids, or delayed speech as a child.</span>
+                </li>
+            </ul>
+            <div class="mt-10 p-6 bg-blue-50 border-l-4 border-blue-600 rounded-r-lg">
+                <p class="font-semibold text-blue-900">If you nodded 3+ times, Calma AI was built for you.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. The Reframe -->
+    <section class="py-20">
+        <div class="container">
+            <h2 class="text-3xl font-bold mb-6">Most apps train reading.</h2>
+            <p class="text-xl text-gray-600 mb-12">Calma AI trains the sounds reading depends on.</p>
+            
+            <div class="flex flex-wrap items-center gap-4 text-lg font-semibold overflow-x-auto pb-4">
+                <span class="px-4 py-2 card shadow-sm">Hearing</span>
+                <span class="chain-arrow">→</span>
+                <span class="px-4 py-2 card shadow-sm border-blue-300 ring-2 ring-blue-100">Sound mapping</span>
+                <span class="chain-arrow">→</span>
+                <span class="px-4 py-2 card shadow-sm">Speech</span>
+                <span class="chain-arrow">→</span>
+                <span class="px-4 py-2 card shadow-sm">Reading</span>
+                <span class="chain-arrow">→</span>
+                <span class="px-4 py-2 card shadow-sm">Comprehension</span>
+            </div>
+            
+            <p class="mt-8 text-gray-600 max-w-xl">
+                If the "Sound Mapping" link is weak, everything downstream breaks. We fix the link.
+            </p>
+        </div>
+    </section>
+
+    <!-- 4. The Loop -->
+    <section class="py-20 bg-gray-900 text-white rounded-t-3xl">
+        <div class="container">
+            <h2 class="text-3xl font-bold mb-12 text-center">Daily training to bridge the gap.</h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="p-6">
+                    <div class="text-blue-400 font-bold mb-2">01. LISTEN</div>
+                    <p class="text-gray-300">Practice distinguishing high-frequency sounds that usually blur together.</p>
+                </div>
+                <div class="p-6">
+                    <div class="text-blue-400 font-bold mb-2">02. SPEAK</div>
+                    <p class="text-gray-300">Record and refine sound placement in real-time with feedback.</p>
+                </div>
+                <div class="p-6">
+                    <div class="text-blue-400 font-bold mb-2">03. SEE</div>
+                    <p class="text-gray-300">Track measurable improvements in your auditory accuracy and clarity.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5. Who it's NOT for -->
+    <section class="py-20">
+        <div class="container">
+            <div class="card p-8 bg-white">
+                <h2 class="text-2xl font-bold mb-6">Calma AI is NOT for:</h2>
+                <ul class="space-y-4 text-gray-600">
+                    <li class="flex items-center">
+                        <span class="mr-3 text-red-500">✕</span> General exam prep or speed reading hacks.
+                    </li>
+                    <li class="flex items-center">
+                        <span class="mr-3 text-red-500">✕</span> Replacing medical audiology or ENT treatment.
+                    </li>
+                    <li class="flex items-center">
+                        <span class="mr-3 text-red-500">✕</span> Individuals without auditory-based language difficulties.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6. Final CTA -->
+    <section id="join" class="py-24 bg-blue-50">
+        <div class="container text-center">
+            <h2 class="text-3xl font-bold mb-4">Ready to hear the difference?</h2>
+            <p class="text-lg text-gray-600 mb-10 max-w-lg mx-auto">
+                We are testing Calma AI with a limited group of teens and adults. Leave your email to secure your spot.
+            </p>
+            
+            <form class="max-w-md mx-auto space-y-4" onsubmit="event.preventDefault(); document.getElementById('success-msg').classList.remove('hidden');">
+                <div>
+                    <label for="email" class="sr-only">Email Address</label>
+                    <input type="email" id="email" required placeholder="Enter your email address" 
+                        class="w-full px-6 py-4 rounded-lg border border-gray-300 text-lg focus:ring-2 focus:ring-blue-500">
+                </div>
+                <button type="submit" class="btn-primary w-full">
+                    Join the early test
+                </button>
+                <p id="success-msg" class="hidden text-green-700 font-semibold pt-2">You're on the list. We'll be in touch soon.</p>
+            </form>
+            
+            <p class="mt-8 text-sm text-gray-500">No spam. Built with privacy and accessibility at the core.</p>
+        </div>
+    </section>
+
+    <footer class="py-12 border-t border-gray-100">
+        <div class="container text-center text-gray-400 text-sm">
+            &copy; 2026 Calma AI. Designed for human auditory potential.
+        </div>
+    </footer>
+
+</body>
+</html>
