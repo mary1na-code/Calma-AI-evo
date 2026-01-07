@@ -14,6 +14,9 @@ It is designed specifically for learners who:
 
 By strengthening **phonemic awareness**, **sound–symbol mapping**, and **guided speech practice**, Calma AI tackles the root cause of these challenges rather than only treating surface‑level reading difficulties.
 
+Visit our site to join the waitlist today! 😊
+[Calma AI](https://mary1na-code.github.io/Calma-AI-evo/)
+
 ---
 
 ## 🔑 Core Loop
