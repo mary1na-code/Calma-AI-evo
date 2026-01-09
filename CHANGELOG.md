@@ -41,3 +41,8 @@ This format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Created public repo for Calma AI.
 - Added initial README with vision and roadmap.
 - Added CHANGELOG.md for tracking updates.
+
+---
+
+## [2026-01-09] - First Landing Page
+### Added - Created and deployed initial landing page for Calma AI. - Introduced basic layout with product overview and sign‑up form.
