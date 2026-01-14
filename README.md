@@ -32,19 +32,6 @@ This loop is the smallest testable unit that can prove or disprove our product b
 
 ---
 
-## 📅 Roadmap (MVP‑Driven)
-
-We are currently building toward a **kill‑test MVP** with strict constraints:
-
-- **Phase 1 (Weeks 1–2):** Define first auditory track & wireframe core loop  
-- **Phase 2 (Weeks 3–4):** Prototype interactive flow & run with 2–3 target users  
-- **Phase 3 (Weeks 5–10):** Ship MVP with listening drills, speech practice, and basic feedback  
-- **Phase 4:** Evaluate engagement & efficacy — pivot or scale based on results  
-
-**Success signal:** target users voluntarily return **3+ times per week** and report improved ability to hear, pronounce, and read previously confusing sounds.
-
----
-
 ## 🚫 Non‑Goals
 
 To stay focused, Calma AI will **not**:
