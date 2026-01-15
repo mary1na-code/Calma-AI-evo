@@ -26,8 +26,9 @@ The heart of Calma AI is simple and focused:
 1. **Listen** — Short auditory tasks to distinguish key speech sounds.  
 2. **Practice Speech** — Guided word/phrase practice using the same sounds. 
 3. **Get Feedback** — Immediate clarity on accuracy, with nudges to retry or advance.  
-4. **Track Progress** — Minimal but motivating indicators (sessions completed, accuracy trends).  
-
+4. **Track Progress** — Minimal but motivating indicators (sessions completed, accuracy trends).
+    
+This loop is the smallest testable unit that can prove or disprove our product bet.
 
 ---
 
