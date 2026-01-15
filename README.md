@@ -28,7 +28,6 @@ The heart of Calma AI is simple and focused:
 3. **Get Feedback** — Immediate clarity on accuracy, with nudges to retry or advance.  
 4. **Track Progress** — Minimal but motivating indicators (sessions completed, accuracy trends).  
 
-This loop is the smallest testable unit that can prove or disprove our product bet.
 
 ---
 
@@ -44,7 +43,7 @@ To stay focused, Calma AI will **not**:
 
 ## 🤝 Contributing
 
-This repo shares **progress and transparency**.  
+This repo shares **progress and transparecy**.  
 Core development happens privately, but we welcome collaboration ideas and feedback — especially from educators, speech therapists, and accessibility advocates.
 
 ---
