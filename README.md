@@ -59,3 +59,4 @@ See [CHANGELOG.md](./CHANGELOG.md) for updates and iteration history.
 
 Follow along as we test, learn, and refine.  
 Announcements and landing page will be published here as the project evolves.
+👉🏽 [PROGRESS_LOG.md](./PROGRESS_LOG.md) 
